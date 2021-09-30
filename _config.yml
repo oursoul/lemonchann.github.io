@@ -65,8 +65,8 @@ Gitalk
 gitalk:
   clientID: c3e06c44b99081448f3e
   clientSecret: ae45f15f08d81825cfa1edf398f3aa65f40534b0
-  repo: lemonchann.github.io
-  owner: lemonchann
+  repo: oursoul.github.io
+  owner: harry
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: G-E1R370Q0QV
